@@ -2,7 +2,9 @@ Estos son los juegos del año
 Eldes Ring
 Gordos War
 
-Exprimento1
+Experimento1
+
+Experimento2
 
 main 1
 
