@@ -4,4 +4,6 @@ Gordos War
 
 main 1
 
+main 2
+
 Quizas los juegos del proximo año no sean tan buenos 
