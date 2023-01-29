@@ -8,6 +8,6 @@ Experimento2
 
 main 10
 
-main 2
+main 20
 
 Quizas los juegos del proximo año no sean tan buenos 
